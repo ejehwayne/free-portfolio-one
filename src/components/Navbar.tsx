@@ -77,6 +77,7 @@ const Navbar = () => {
                 <div className="flex gap-4">
                   <a href="https://www.youtube.com/@reactjsBD" target="_blank">
                     <span className="bannerIcon">
+                      /*icon\*
                       <FaYoutube />
                     </span>
                   </a>
